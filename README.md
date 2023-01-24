@@ -6,15 +6,21 @@ Full Stack Software Developer
 
 I'm a very passionate programmer, I started in 2014 with PHP, HTML, CSS, MySQL and currently use Python and C programming languages
 
-*   🌍  I'm based in Nigeria,
-*   🖥️  See my portfolio at [I will update a link to my portfolio soon](http://https://www.codewars.com/users/Lawrence.Nno)
-*   ✉️  You can contact me at [lawrence.nno@gmail.com](mailto:lawrence.nno@gmail.com)
-*   🚀  I'm currently working on [A calculator app](http://https://www.codewars.com/users/Lawrence.Nno)
-*   🧠  I'm learning Some frontend languages to polish up my skills
-*   🤝  I'm open to collaborating on any project at all
-*   ⚡  I'm fun to work with and very dedicated<a href="https://www.twitter.com/N_Chimarokem" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/N_Chimarokem?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Nigeria,
+* 🖥️  See my portfolio at [I will update a link to my portfolio soon](http://https://www.codewars.com/users/Lawrence.Nno)
+* ✉️  You can contact me at [lawrence.nno@gmail.com](mailto:lawrence.nno@gmail.com)
+* 🚀  I'm currently working on [A calculator app](http://https://www.codewars.com/users/Lawrence.Nno)
+* 🧠  I'm learning Some frontend languages to polish up my skills
+* 🤝  I'm open to collaborating on any project at all
+* ⚡  I'm fun to work with and very dedicated
+
+<a href="https://www.twitter.com/N_Chimarokem" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/N_Chimarokem?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -30,14 +36,8 @@ I'm a very passionate programmer, I started in 2014 with PHP, HTML, CSS, MySQL a
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/Lawrence-Nno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/lawrence-nnoromele-171774247/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/N_Chimarokem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Lawrence-Nno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lawrence-nnoromele-171774247/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/N_Chimarokem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
