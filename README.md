@@ -1,4 +1,4 @@
-Hi 👋 My name is Lawrence Nnoromele
+Hi 👋 My name is Lawrence Nno
 ===================================
 
 Full Stack Software Developer
