@@ -9,7 +9,6 @@ I'm a very passionate programmer, I started in 2014 with PHP, HTML, CSS, MySQL a
 * 🌍  I'm based in Nigeria,
 * 🖥️  See my portfolio at [I will update a link to my portfolio soon](http://https://www.codewars.com/users/Lawrence.Nno)
 * ✉️  You can contact me at [lawrence.nno@gmail.com](mailto:lawrence.nno@gmail.com)
-* 🚀  I'm currently working on [A calculator app](http://https://www.codewars.com/users/Lawrence.Nno)
 * 🧠  I'm learning Some frontend languages to polish up my skills
 * 🤝  I'm open to collaborating on any project at all
 * ⚡  I'm fun to work with and very dedicated
