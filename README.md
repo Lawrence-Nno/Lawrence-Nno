@@ -13,8 +13,8 @@ I'm a very passionate programmer, I started in 2014 with PHP, HTML, CSS, MySQL a
 * 🤝  I'm open to collaborating on any project at all
 * ⚡  I'm fun to work with and very dedicated
 
-<a href="https://www.twitter.com/N_Chimarokem" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/N_Chimarokem?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/lawrence_nno" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/lawrence_nno?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
