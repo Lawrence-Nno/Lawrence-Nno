@@ -6,7 +6,7 @@ Full Stack Software Developer
 
 I'm a very passionate programmer, I started in 2014 with PHP, HTML, CSS, MySQL and currently use Python and C programming languages
 
-* 🌍  I'm based in Nigeria,
+* 🌍  I'm based worldwide, can easily relocate.
 * 🖥️  See my portfolio at [I will update a link to my portfolio soon](http://https://www.codewars.com/users/Lawrence.Nno)
 * ✉️  You can contact me at [lawrence.nno@gmail.com](mailto:lawrence.nno@gmail.com)
 * 🧠  I'm learning Some frontend languages to polish up my skills
