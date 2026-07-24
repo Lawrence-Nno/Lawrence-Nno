@@ -7,7 +7,7 @@ Full Stack Software Developer
 I'm a very passionate programmer, I started in 2014 with PHP, HTML, CSS, MySQL and currently use Python and C programming languages
 
 * 🌍  I'm based worldwide, can easily relocate.
-* 🖥️  See my portfolio at [Portfolio](https://lawrence-nno.online)
+* 🖥️  See my profile at [Portfolio](https://enormous-starburst-d6f.notion.site/Chima-s-Public-Profile-3a7bff95763f80ad923ad7c803b72962)
 * ✉️  You can contact me at [lawrence.nno@gmail.com](mailto:lawrence.nno@gmail.com)
 * 🧠  I'm learning Some frontend languages to polish up my skills
 * 🤝  I'm open to collaborating on any project at all
